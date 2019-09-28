@@ -1,0 +1,19 @@
+{
+  "name": "@titus_entertainment/mongohandler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Titus <properllerbucher@gmail.com>",
+  "repository": "",
+  "license": "MIT",
+  "dependencies": {
+    "@ayana/logger": "^2.1.1",
+    "dotenv": "^8.1.0",
+    "mongoose": "^5.7.1"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.7",
+    "nodemon": "^1.19.2",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.3"
+  }
+}
