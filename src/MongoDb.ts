@@ -1,4 +1,4 @@
-import * as mongoose from 'mongoose';
+import mongoose from 'mongoose';
 import { Logger } from '@ayana/logger';
 const logger = Logger.get('mongoDB');
 

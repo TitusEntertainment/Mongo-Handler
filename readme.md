@@ -9,7 +9,7 @@ It also has some simple error handling.
 usage:
 
 ```js
-const { MongoClient } = require('@titus_entertainment/mongohandler');
+const { MongoHandler } = require('@titus_entertainment/mongohandler');
 
 // The package allows you to simple add your mongodb uri to connect to
 const db = new MongoClient({ url: 'mymongodburi' });
